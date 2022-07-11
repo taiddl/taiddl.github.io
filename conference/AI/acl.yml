@@ -8,10 +8,18 @@
       id: acl22
       link: https://www.2022.aclweb.org/
       timeline:
-        - deadline: '2021-09-15 23:59:59'
-        - deadline: '2021-10-15 23:59:59'
         - deadline: '2021-11-15 23:59:59'
-          comment: 'final submission deadline'
+          comment: 'Deadline for submission to ACL Rolling Review'
+        - deadline: '2021-12-16 23:59:59'
+          comment: 'Anonymity period for ACL 2022 starts'
+        - deadline: '2022-01-15 23:59:59'
+          comment: 'Commitment deadline for ACL 2022'
+        - deadline: '2022-02-23 23:59:59'
+          comment: 'Notification of acceptance'
+        - deadline: '2022-02-28 23:59:59'
+          comment: 'Deadline to withdraw papers'
+        - deadline: '2022-03-15 23:59:59'
+          comment: 'Camera-ready due'
       timezone: UTC-12
-      date: May 22-27, 2022
+      date: May 22-May 27, 2022
       place: Dublin, Ireland

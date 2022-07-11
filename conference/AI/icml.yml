@@ -14,3 +14,17 @@
       timezone: UTC-12
       date: July 17-23, 2022
       place: Baltimore, Maryland USA
+    - year: 2023
+      id: icml23
+      link: https://waset.org/m-learning-conference-in-april-2023-in-venice
+      timeline:
+        - abstract_deadline: '2022-07-19 23:59:59'
+          deadline: '2022-07-19 23:59:59'
+          comment: 'Abstracts/Full-Text Paper Submission Deadline'
+        - deadline: '2022-08-01 23:59:59'
+          comment: 'Notification of Acceptance/Rejection'
+        - deadline: '2023-03-11 23:59:59'
+          comment: 'Final Paper (Camera Ready) Submission & Early Bird Registration Deadline'
+      timezone: UTC-12
+      date: April 12-April 13, 2023
+      place: Venice, Italy

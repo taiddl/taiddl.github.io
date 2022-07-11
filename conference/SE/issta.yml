@@ -6,7 +6,7 @@
   confs:
     - year: 2022
       id: issta22
-      link: https://conf.researchr.org/home/issta-2022
+      link:
       timeline:
         - deadline: '2022-01-28 23:59:59'
           comment: 'Technical Papers due'
